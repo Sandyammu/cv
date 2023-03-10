@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+}
+.a {
+    padding: 10px;
+   /* border: 2mm ridge rgba(211, 220, 50, .6);*/
+   border: solid #ffffff;
+}
+.b{
+    border-spacing: 10px;
+   /* border: 2mm ridge rgba(211, 220, 50, .6);*/
+   border: solid #ffffff;
+}
+.ammu{
+   padding-right: 12%;
+}
+hr{
+    size: 3px;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #346afd;
+}
+.d{
+    padding-right: 5%;
+}
+/**/
